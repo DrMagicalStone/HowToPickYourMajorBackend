@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/koa": "^2.13.9",
+    "@types/koa-router": "^7.4.5",
+    "@types/sequelize": "^4.28.16",
+    "koa": "^2.14.2",
+    "koa-router": "^11.0.2",
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
